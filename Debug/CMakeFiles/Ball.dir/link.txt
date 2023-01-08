@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Ball.dir/src/ball.c.o -o Ball 

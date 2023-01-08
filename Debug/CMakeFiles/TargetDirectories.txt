@@ -1,0 +1,3 @@
+/home/joer/Projects/Balls/Debug/CMakeFiles/Balls.dir
+/home/joer/Projects/Balls/Debug/CMakeFiles/edit_cache.dir
+/home/joer/Projects/Balls/Debug/CMakeFiles/rebuild_cache.dir
